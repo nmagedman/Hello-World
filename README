@@ -1,0 +1,12 @@
+subject:"SyGen"
+
+A small rails intro task just to get into business:
+Using ruby on rails, develop a simple web site:
+	* Use git to manage your sources on github
+	* It should include user authentication:
+		* sign in (user / password hidden chars)
+		* sign up - first login (double password for approval)
+	* It should have a simple address book of all users including address,
+	  first name, family name and telephone number.
+
+Good luck!
